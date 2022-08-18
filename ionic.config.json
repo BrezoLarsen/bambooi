@@ -1,0 +1,7 @@
+{
+  "name": "Bambooi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
